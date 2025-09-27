@@ -30,7 +30,7 @@ TrajectAI helps students and professionals discover a clear career path by gener
 
 ## Screenshots
 
-(https://drive.google.com/file/d/1i4KX77aMM5Ew8KvdnNZkeuasY5LR9q-n/view?usp=sharing)
+![Image](https://drive.google.com/file/d/1i4KX77aMM5Ew8KvdnNZkeuasY5LR9q-n/view?usp=sharing)
 
 (https://drive.google.com/file/d/1P5mlGpcyaAOEjWqO4KTALufNBtVdmDu1/view?usp=sharing)
 
