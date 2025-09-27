@@ -27,6 +27,17 @@ TrajectAI helps students and professionals discover a clear career path by gener
 | **Deployment** | Vercel (frontend), Render (backend) |
 | **Other Tools** | Git, VS Code |
 
+## Architecture
+
+<pre>
+[Client: React]
+        ↓  (API Calls)
+[Backend: Node.js + Express]
+        ↓  (Mongoose ODM)
+[Database: MongoDB Atlas]
+        ↘  [Firebase Authentication Service]
+        ↘  [OpenRouter API – Career Roadmap Generation]
+</pre>
 
 ## Deployment
 
@@ -36,7 +47,7 @@ https://trajectai-client.vercel.app/
 
 Install my-project with npm
 
-```bash
+<pre>
 1️⃣ Clone the repository
 git clone https://github.com/<your-username>/TrajectAI.git
 cd TrajectAI
@@ -52,7 +63,8 @@ For the backend:
 cd server
 npm install
 npm run dev
-
-License
+</pre>
+  
+## License
 
 MIT License © 2025 Raghav Sharma
