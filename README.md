@@ -28,7 +28,7 @@ TrajectAI helps students and professionals discover a clear career path by gener
 | **Other Tools** | Git, VS Code |
 
 
-## Screenshots
+## Deployment
 
 https://trajectai-client.vercel.app/
 
