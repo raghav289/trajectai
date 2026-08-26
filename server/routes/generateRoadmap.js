@@ -19,7 +19,7 @@ router.post('/', async (req, res) => {
         "X-Title": "traject-ai-roadmap"
       },
       body: JSON.stringify({
-        model: "mistralai/mistral-7b-instruct", // ✅ free and reliable
+        model: "mistralai/mistral-7b-instruct:free", // free and reliable
         messages: [
           { role: "system", content: "You are a career guidance assistant." },
           { role: "user", content: prompt }
